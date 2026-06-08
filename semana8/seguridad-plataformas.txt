@@ -1,0 +1,7 @@
+5 prácticas de seguridad para plataformas digitales comunitarias:
+
+1. Usar contraseñas robustas y autenticación de dos factores (2FA) para administradores.
+2. Mantener todo el software actualizado (SO, servidor, dependencias).
+3. Cifrar la comunicación con HTTPS y proteger datos sensibles en reposo.
+4. Registrar accesos y acciones importantes en logs (sin guardar contraseñas).
+5. Limitar el acceso a información sensible mediante roles y permisos.

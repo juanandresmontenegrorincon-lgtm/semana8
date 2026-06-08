@@ -1,0 +1,7 @@
+Comando 'uname -a': muestra información completa del sistema operativo (kernel, versión, arquitectura, fecha).
+Ejemplo: Linux DESKTOP-5F4D3A 5.15.133.1-microsoft-standard-WSL2 ... x86_64 GNU/Linux.
+
+Comando 'whoami': muestra el nombre del usuario actual.
+Ejemplo: tu_usuario
+
+Es útil conocer esta información al administrar un servidor porque permite saber qué sistema operativo y versión se ejecuta, qué usuario tiene permisos, y así instalar paquetes compatibles, diagnosticar errores y aplicar parches de seguridad específicos.
